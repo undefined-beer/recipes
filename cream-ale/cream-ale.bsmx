@@ -220,7 +220,7 @@ Mouthfeel: Generally light and crisp, although body can reach medium. Smooth mou
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2018-09-07</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Barley, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -228,7 +228,7 @@ Mouthfeel: Generally light and crisp, although body can reach medium. Smooth mou
 <F_G_IN_RECIPE>1</F_G_IN_RECIPE>
 <F_G_INVENTORY>0.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>17.6369840</F_G_AMOUNT>
-<F_G_COLOR>1.7000000</F_G_COLOR>
+<F_G_COLOR>1.5228426</F_G_COLOR>
 <F_G_YIELD>70.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>5.5555556</F_G_PERCENT>
@@ -247,7 +247,7 @@ Mouthfeel: Generally light and crisp, although body can reach medium. Smooth mou
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2018-09-07</_MOD_>
+<Grain><_MOD_>1969-12-31</_MOD_>
 <F_G_NAME>Cara-Pils/Dextrine</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -386,7 +386,7 @@ Substitutes: Hallertauer, Mount Liberty</F_H_NOTES>
 <F_R_CARB_VOLS>2.6000000</F_R_CARB_VOLS>
 <F_R_MASH_PH>5.2000000</F_R_MASH_PH>
 <F_R_MASH_PH_SET>0</F_R_MASH_PH_SET>
-<F_R_TARGET_PH>5.2000000</F_R_TARGET_PH>
+<F_R_TARGET_PH>5.3500000</F_R_TARGET_PH>
 <F_R_ACID_CONC>88.0000000</F_R_ACID_CONC>
 <F_R_FERMENTER></F_R_FERMENTER>
 <F_R_ACID>0</F_R_ACID>
